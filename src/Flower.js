@@ -10,6 +10,7 @@ function Flower(props) {
           <img src={props.img} alt="Error" />
           <p>{props.para}</p>
           <button>Read more</button>
+          <hr />
         </div>
       </div>
     </>
